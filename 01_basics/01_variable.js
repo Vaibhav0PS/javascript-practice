@@ -1,6 +1,6 @@
-const accountId = 12412538;
-let accountName = "Vaibhav Patole";
-var accountEmail = "abc@gmail.com";
+const accountId = 12412538; //values cant be reassign 
+let accountName = "Vaibhav Patole"; // can change
+var accountEmail = "abc@gmail.com"; // old way, genrally avoid
 let accountCity;
 
 // dont use var for declaring variables is out of scope 
