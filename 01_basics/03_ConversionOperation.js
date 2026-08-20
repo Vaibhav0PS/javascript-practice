@@ -21,3 +21,11 @@ console.log(strCheck)
 // true => 1 and false => 0
 // "" => false and "asd"=> true
 // "44LH" => NaN
+
+/****************** Operations **************************/
+
+console.log("1" + 2)
+console.log("1" + 2 + 2)
+console.log("1" + "2" + 2)
+
+
